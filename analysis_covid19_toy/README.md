@@ -1,6 +1,7 @@
 # Covid19 and Economy
 - 팀원: Sejong Pyo, Miseo Choi
 - 참여 기간: 2020.08.23 ~ 2020.10.15
+- 목표: 데이터 수집과 분석을 통해 인사이트를 도출하고 전망 예측 수행
 
 ### Work Flow
 1. 데이터 수집
